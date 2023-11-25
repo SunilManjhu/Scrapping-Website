@@ -1,6 +1,7 @@
 # NIFTY 50 Historical Data Extractor
 
 This Python script is designed to extract historical data for the NIFTY 50 index from the NSE Nifty Indices website. The extracted data includes information such as the date, open, high, low, close, and volume.
+url = "https://iislliveblob.niftyindices.com/jsonfiles/LiveIndicesWatch.json"
 
 ## Prerequisites
 
