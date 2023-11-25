@@ -1,3 +1,4 @@
 coding assessment.mov
 .venv
 __pycache__/*
+*.log
