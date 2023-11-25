@@ -1,5 +1,7 @@
 import imdb_Functions as myFunc
-# Define the URL
-url = 'https://www.imdb.com/chart/top/'
 
-myFunc.Get_URL_Data(url)
+# Define the URL
+URL = "https://www.imdb.com/chart/top/"
+USER_AGENT = "Mozilla/5.0"
+
+myFunc.get_url_data(URL, USER_AGENT)
